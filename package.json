@@ -1,0 +1,11 @@
+{
+  "name": "bataiev_lab2_3",
+  "version": "1.0.0",
+  "description": "Лабораторна робота Батаєва Дмитра Сергійовича",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Батаєв Д.С.",
+  "license": "ISC"
+}
